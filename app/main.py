@@ -19,7 +19,10 @@ def main():
     print("\n- Lista de todos os usuarios cadastrados -")
     lista_usuarios = service.listar_todos_usuarios()
     for usuario in lista_usuarios:
-        print(f"\nNome: {usuario.nome} \nE-mail: {usuario.email} \nSenha: {usuario.senha}")
+        print(
+            f"\nNome: {usuario.nome} \nE-mail: {usuario.email} \nSenha: {usuario.senha}"
+        )
+
 
 if __name__ == "__main__":
     os.system("cls || clear")
