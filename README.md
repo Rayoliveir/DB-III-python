@@ -28,3 +28,6 @@ Os dados precisam ser salvos no banco de dados.
 - Banco de dados: MySQL
 - Linguagem de programaçaõ: Python
 - Orquestração de conteineres: Docker Compose
+
+
+### Realizada dia 04/11/2024 no repositório atividade0411---DB 
